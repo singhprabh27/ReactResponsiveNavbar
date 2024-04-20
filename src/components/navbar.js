@@ -34,7 +34,6 @@ function Header() {
                     <a href="#" className="link db dib-l pa2 pv2 color-inherit">Pricing</a>
                     <a href="#" className="link dib pa2 pv2 color-inherit ba br2">Sign up</a>
                 </nav>
-
                 <MobileMenu />
             </div>
         </header>
